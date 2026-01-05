@@ -1,0 +1,4 @@
+aiogram==3.9.0
+aiohttp
+sqlite3  # встроен в Python, но указываем для ясности
+python-dotenv
